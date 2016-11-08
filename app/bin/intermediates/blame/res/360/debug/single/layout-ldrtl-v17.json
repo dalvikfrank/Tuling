@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout-ldrtl-v17/md_listitem_singlechoice.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout-ldrtl-v17/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout-ldrtl-v17/md_listitem_multichoice.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout-ldrtl-v17/md_listitem_multichoice.xml"
+    }
+]

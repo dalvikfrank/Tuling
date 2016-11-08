@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/xlistview_footer.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/activity_detail.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_stub_actionbuttons.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/select_dialog_item_material.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/item_news_layout.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/layout/item_news_layout.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_search_view.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/item_conversation_right.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/layout/item_conversation_right.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_stub_titleframe_lesspadding.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_stub_titleframe.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_stub_titleframe.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/notification_template_lines.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_dialog_input.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_dialog_input.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/design_layout_tab_text.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/notification_template_big_media.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/notification_template_part_time.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_screen_simple.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/notification_template_media.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/design_navigation_item_header.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/notification_media_action.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/activity_about.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_dialog_progress.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_dialog_progress.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/xlistview_header.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/item_conversation_left.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/layout/item_conversation_left.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_dialog_list.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_dialog_list.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_screen_content_include.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_listitem_singlechoice.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_dialog_basic.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_dialog_basic.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_listitem_multichoice.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/dialog_copy_delete.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/layout/dialog_copy_delete.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/design_navigation_item.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/design_layout_snackbar.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/app_base_toolbar.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/layout/app_base_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/design_navigation_menu.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_dialog_custom.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_dialog_custom.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/activity_news.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/layout/activity_news.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_dialog_progress_indeterminate.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/md_listitem.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/res/layout/md_listitem.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/layout/activity_main.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/layout/activity_main.xml"
+    }
+]

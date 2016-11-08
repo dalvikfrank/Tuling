@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Volumes/data/github/dalvikfrank/Tuling/app/src/androidTest/assets"/><source path="/Volumes/data/github/dalvikfrank/Tuling/app/bin/generated/assets/shaders/androidTest/360/debug"/></dataSet><dataSet config="360"><source path="/Volumes/data/github/dalvikfrank/Tuling/app/src/androidTest360/assets"/></dataSet></merger>

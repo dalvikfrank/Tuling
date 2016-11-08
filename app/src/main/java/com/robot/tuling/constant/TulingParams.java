@@ -6,8 +6,8 @@ package com.robot.tuling.constant;
 public class TulingParams {
 
     public static final String TULING_URL = "http://www.tuling123.com/openapi/";
-    public static  final String TULING_KEY = "577173e62a2ff6627b62e94d663b449c";
-
+    //public static  final String TULING_KEY = "577173e62a2ff6627b62e94d663b449c";
+    public static  final String TULING_KEY = "19872ba7d18a4a089cb766d32a1bd3f7";
 
     public static class TulingCode {
         public static final int TEXT = 100000;//文本类数据

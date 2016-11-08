@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/color/selector_conversation_right.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/color/selector_conversation_right.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/color/abc_search_url_text.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/color/switch_thumb_material_light.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/color/selector_normal_et_black.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/color/selector_normal_et_black.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/data/github/dalvikfrank/Tuling/app/bin/intermediates/res/merged/360/debug/color/selector_conversation_left.xml",
+        "source": "/Volumes/data/github/dalvikfrank/Tuling/app/src/main/res/color/selector_conversation_left.xml"
+    }
+]
